@@ -2,3 +2,7 @@
 *.h5
 # leave out excel files
 *.xlsx
+# ignore DS_Store
+.DS_Store
+# ignore jupyter checkpoints
+.ipynb_checkpoints/
