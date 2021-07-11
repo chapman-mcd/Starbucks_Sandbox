@@ -11,6 +11,7 @@ Before looking into the notebooks, I recommend reading the [accompanying blog po
 The major challenge with this project is how to process the event data created by the test (called the 'transcript' in the problem statement).  Customers can take a number of different paths through the marketing offers, making data processing and preparation difficult.
 
 I set the following goal for the project:
+
 _**The objective is to determine the best offer to present to each customer**_
 
 _**The best offer is the one that yields maximum return for Stuckbars.**_
