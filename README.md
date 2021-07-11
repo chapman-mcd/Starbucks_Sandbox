@@ -29,7 +29,7 @@ From a clean directory, using `conda`:
 conda create -n stuckbars
 conda activate stuckbars
 conda install tensorflow numpy pandas matplotlib seaborn progressbar2
-git clone ###repo link
+git clone https://github.com/chapman-mcd/Starbucks_Sandbox
 ```
 
 ## Instructions
