@@ -4,7 +4,7 @@ This is the final project for my Data Scientist Nanodegree with Udacity.  The pr
 
 An introduction to the project is available [in this video](https://www.youtube.com/watch?v=bq-H7M5BU3U) and the complete problem statement is included at the end of this readme.
 
-Before looking into the notebooks, I recommend reading the accompanying blog post.
+Before looking into the notebooks, I recommend reading the [accompanying blog post.](https://chapman-mcdaniel.medium.com/playing-in-starbucks-sandbox-b8937293fa78)
 
 ## Project Discussion
 
