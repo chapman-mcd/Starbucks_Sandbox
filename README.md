@@ -12,9 +12,9 @@ The major challenge with this project is how to process the event data created b
 
 I set the following goal for the project:
 
-_**The objective is to determine the best offer to present to each customer**_
+- _**The objective is to determine the best offer to present to each customer**_
 
-_**The best offer is the one that yields maximum return for Stuckbars.**_
+- _**The best offer is the one that yields maximum return for Stuckbars.**_
 
 I achieve this goal by determining the best-performing overall offer, and by looking through the customer base for subsets who respond better to a different offer.
 
