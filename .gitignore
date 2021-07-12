@@ -1,5 +1,3 @@
-# leave out keras models
-*.h5
 # leave out excel files
 *.xlsx
 # ignore DS_Store
