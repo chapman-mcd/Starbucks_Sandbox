@@ -16,11 +16,11 @@ I set the following goal for the project:
 
 - _**The best offer is the one that yields maximum return for Stuckbars.**_
 
-I achieve this goal by determining the best-performing overall offer, and by looking through the customer base for subsets who respond better to a different offer.
+I achieve this goal by determining the best-performing overall offer, looking through the customer base to find subsets who respond better to different offers, and applying supervised learning through a tensorflow neural net to predict the best offer to present to each customer.
 
 ## Dependencies
 
-This project depends on `numpy`, `pandas`, `matplotlib`, `seaborn`, `jupyter` and `progressbar2` libraries.  Also in the repository is an incomplete attempt to use supervised learning on the dataset (left incomplete due to project deadlines).  This supervised learning portion is built on `tensorflow`.
+This project depends on `numpy`, `pandas`, `matplotlib`, `seaborn`, `jupyter`, `tensorflow`, `scikit-learn` and `progressbar2` libraries.
 
 ## Installation
 
@@ -29,7 +29,7 @@ From a clean directory, using `conda`:
 ```
 conda create -n stuckbars
 conda activate stuckbars
-conda install tensorflow numpy pandas matplotlib seaborn progressbar2
+conda install tensorflow numpy pandas matplotlib seaborn progressbar2 scikit-learn
 git clone https://github.com/chapman-mcd/Starbucks_Sandbox
 ```
 
@@ -40,14 +40,16 @@ The project is entirely contained in the notebook.  Type `jupyter notebook` and 
 ## Included Files
 
 - Main notebook: `Starbucks_Sandbox.ipynb`
+- Supervised Learning Notebook: `Sandbox_ML.ipynb`
 - /data: contains the simulated data files
-- Various image files created for the blog post
-- Supervised Learning attempt: `Sandbox_ML.ipynb`
+- /images: various image files created for the blog post
+- /models: model artifacts from machine learning
 
 ## Acknowledgements
 
 - [Starbucks](www.starbucks.com) for providing the dataset
 - [Udacity](www.udacity.com)
+- Package authors
 
 ------------------------------
 
